@@ -253,4 +253,4 @@ VALUES (1, 'admin', 'admin@fataknews.in', '$2y$12$...bcrypt_hash...', 'Super Adm
 
 ---
 
-Made with ❤️ for FatakNews.in | © 2024
+Made with ❤️ for FatakNews.in | © 2026
