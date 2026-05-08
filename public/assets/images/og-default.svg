@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">FatakNews</title>
+  <desc id="desc">FatakNews social sharing image</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0A0A0F"/>
+      <stop offset="100%" stop-color="#1E1E2A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#FF2D2D"/>
+      <stop offset="100%" stop-color="#FF6B1A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="490" rx="36" fill="#111118" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="120" y="118" width="84" height="84" rx="20" fill="#FF2D2D"/>
+  <path d="M156 140h14l-10 20h14l-24 40 8-28h-12l10-32z" fill="#ffffff"/>
+  <text x="232" y="175" fill="#F0F0F5" font-family="Arial, sans-serif" font-size="58" font-weight="700">FatakNews</text>
+  <text x="120" y="280" fill="#F0F0F5" font-family="Arial, sans-serif" font-size="76" font-weight="700">Breaking News Every Second</text>
+  <text x="120" y="350" fill="#A7A7BA" font-family="Arial, sans-serif" font-size="34">Fast, youth-first coverage across politics, business, sports, technology, and culture.</text>
+  <rect x="120" y="408" width="320" height="14" rx="7" fill="url(#accent)"/>
+  <text x="120" y="472" fill="#FF6B1A" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3">FATAFAT KHABAR</text>
+</svg>
